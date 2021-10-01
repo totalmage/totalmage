@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @totalmage
 - 👀 I’m interested in ... Overwatch, Books, and Mexico
-- 🌱 I’m currently learning ... Java
+- 🌱 I’m currently learning ... Java, HTML, CSS, Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
